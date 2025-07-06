@@ -18,9 +18,5 @@ Technologies Used
 Live Demo
 
 Check out the live demo of GreenDen: 
+ Repository Link: 
 
-Getting Started
-
-1.  Repository Link: 
-2. Open index.html in your favorite code editor
-3. Start customizing and adding more features!
