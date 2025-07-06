@@ -16,5 +16,5 @@ Technologies Used
 - Grid layout
 
 Live Demo:https://chandramukeshraja.github.io/greenden-tailwind/
-Repository Link:https://github.com/ChandraMukeshRaja/greenden-tailwind/tree/main 
+
 
