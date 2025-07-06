@@ -15,8 +15,6 @@ Technologies Used
 - Tailwind CSS
 - Grid layout
 
-Live Demo
-
-Check out the live demo of GreenDen: 
- Repository Link:https://github.com/ChandraMukeshRaja/greenden-tailwind/tree/main 
+Live Demo:https://chandramukeshraja.github.io/greenden-tailwind/
+Repository Link:https://github.com/ChandraMukeshRaja/greenden-tailwind/tree/main 
 
